@@ -1,5 +1,5 @@
 # processing2-maskman
-Processing + OpenCVでface-trackingしてmackをつけてみた
+Processing + OpenCVでface-trackingしてmaskをつけてみた
 
 ## How to play
 ともだちたくさんではしゃげばいいと思うよ
